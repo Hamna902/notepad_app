@@ -29,7 +29,7 @@ class AdvancedNotepad:
         self.dark_mode = False
 
         # Set the window title
-        self.root.title("Untitled - Notepad")
+        self.root.title("Untitled1 - Notepad")
 
         # Center the window
         screenWidth = self.root.winfo_screenwidth()
